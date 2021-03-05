@@ -1,2 +1,2 @@
 # dotfiles
-Back up of my importan linux config files
+Backup of my important linux config files
